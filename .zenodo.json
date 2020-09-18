@@ -1,0 +1,38 @@
+{
+    "description": "<p>Tenzing is an easy-to-use web-based app and R package, that allows researchers to generate reports about the contribution of each team member on a project using CRediT, for insertion into their manuscripts and for publishers to potentially incorporate into article metadata.</p>", 
+    "license": "other-open", 
+    "title": "marton-balazs-kovacs/tenzing: tenzing: documening contributorship with CRediT", 
+    "version": "v0.1.0", 
+    "upload_type": "software", 
+    "publication_date": "2020-08-20", 
+    "creators": [
+        {
+            "name": "Marton Kovacs",
+            "orcid": "0000-0002-8142-8492"
+        }, 
+        {
+            "affiliation": "Department for Research Methods and Experimental Psychology, University of Cologne", 
+            "name": "Frederik Aust",
+            "orcid": "0000-0003-4900-788X"
+        }, 
+        {
+            "name": "Alex O. Holcombe"
+        }, 
+        {
+            "name": "Balazs Aczel"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/marton-balazs-kovacs/tenzing/tree/v0.1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3993410", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
